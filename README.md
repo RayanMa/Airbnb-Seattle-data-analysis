@@ -12,15 +12,15 @@ This project is intented to study and analyze the **Airbnb Seattle Dataset** By 
 
 ## How to run? <a name="run"></a>
 
-to be able to run this code you will need the follwing libraries :
-
-* Numpy.
-* Math.
-* Pandas.
-* Matplotlib.
-
-and you will need to download the [dataset](https://www.kaggle.com/airbnb/seattle?select=listings.csv)
- and have it in **the same dierctory** as the notebook.
+*Open the Notebook.
+*to be able to run this code you will need the follwing libraries :
+  * Numpy.
+  * Math.
+  * Pandas.
+  * Matplotlib.
+  
+ *you will need to download the [dataset](https://www.kaggle.com/airbnb/seattle?select=listings.csv)
+  and have it in **the same dierctory** as the notebook.
 
 ## Project Motivation<a name="motivation"></a>
 
