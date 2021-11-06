@@ -38,7 +38,7 @@ The goal of this research is to undertsand this dataset and benfit both user and
 
 ## Results<a name="results"></a>
 
-The results of this small research can be found in the blog post [here]().
+The results of this small research can be found in the blog post [here](https://medium.com/@rayanxma/4-facts-about-seattle-airbnb-that-you-may-need-in-your-next-trip-7e75695878b).
 
 
 
