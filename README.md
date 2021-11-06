@@ -1,15 +1,16 @@
 # Table of Contents
 
-1. [How to run?](#How to run?)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
+1. [What is this about?](#about)
+2. [How to run?](#run)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+5. [Results](#results)
 
-## What is this about:
+## What is this about? <a name="about"></a>
 
 This project is intented to study and analyze the **Airbnb Seattle Dataset** By understanding it and breaking it down with list of Questions and visualiztions.
 
-## How to run? <a name="How to run?"></a>
+## How to run? <a name="run"></a>
 
 to be able to run this code you will need the follwing libraries :
 
